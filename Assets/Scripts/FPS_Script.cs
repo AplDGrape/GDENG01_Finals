@@ -21,6 +21,9 @@ public class FPS_Script : MonoBehaviour
 
     public bool canMove = true;
 
+    /*[Header("Player Step Climb: ")]
+    [SerializeField] float stepHeight = 0.5f;
+    [SerializeField] float stepSmooth = 0.1f;*/
 
     CharacterController characterController;
 
@@ -34,7 +37,7 @@ public class FPS_Script : MonoBehaviour
     void Update()
     {
 
-        #region Handles Movment
+        #region Handles Movement
         Vector3 forward = transform.TransformDirection(Vector3.forward);
         Vector3 right = transform.TransformDirection(Vector3.right);
 
