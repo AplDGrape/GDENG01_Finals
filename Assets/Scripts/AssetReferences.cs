@@ -48,5 +48,7 @@ public class AssetReferences : MonoBehaviour
     Leaf 2: https://www.kindpng.com/imgv/TJRoibx_peach-leaf-clipart-hd-png-download/
 
     Leaf 3: https://www.kindpng.com/imgv/TJRoibR_leaf-clipart-illustration-hd-png-download/
+
+    Fantasy Forest: https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-environment-free-demo-35361
     */
 }
