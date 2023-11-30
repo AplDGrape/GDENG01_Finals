@@ -57,6 +57,8 @@ public class AssetReferences : MonoBehaviour
 
     Green metal rust: https://polyhaven.com/a/green_metal_rust
 
+    Leather red 02: https://polyhaven.com/a/leather_red_02
+
     Leaf 1: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.ph%2Fpin%2Fgreen-leaf-png-clip-art--506232814350111830%2F&psig=AOvVaw0Nt47bHuWlYDBoKg1p9Sh_&ust=1700891666941000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCLjO867524IDFQAAAAAdAAAAABAh
 
     Leaf 2: https://www.kindpng.com/imgv/TJRoibx_peach-leaf-clipart-hd-png-download/
