@@ -63,6 +63,12 @@ public class AssetReferences : MonoBehaviour
 
     Brown planks 04: https://polyhaven.com/a/brown_planks_04
 
+    Lemon tree: https://assetstore.unity.com/packages/3d/vegetation/trees/lemon-trees-200372
+
+    Yughues Free Bushes: https://assetstore.unity.com/packages/3d/vegetation/plants/yughues-free-bushes-13168
+
+
+
     Leaf 1: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.ph%2Fpin%2Fgreen-leaf-png-clip-art--506232814350111830%2F&psig=AOvVaw0Nt47bHuWlYDBoKg1p9Sh_&ust=1700891666941000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCLjO867524IDFQAAAAAdAAAAABAh
 
     Leaf 2: https://www.kindpng.com/imgv/TJRoibx_peach-leaf-clipart-hd-png-download/
