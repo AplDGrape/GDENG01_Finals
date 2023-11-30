@@ -64,5 +64,7 @@ public class AssetReferences : MonoBehaviour
     Leaf 3: https://www.kindpng.com/imgv/TJRoibR_leaf-clipart-illustration-hd-png-download/
 
     Fantasy Forest: https://assetstore.unity.com/packages/3d/environments/fantasy/fantasy-forest-environment-free-demo-35361
+
+    Branches: https://polyhaven.com/a/dry_branches_medium_01
     */
 }
