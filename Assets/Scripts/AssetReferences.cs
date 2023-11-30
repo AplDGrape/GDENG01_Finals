@@ -69,8 +69,10 @@ public class AssetReferences : MonoBehaviour
 
     Branches: https://polyhaven.com/a/dry_branches_medium_01
 
-    Weeds 2: https://polyhaven.com/a/weed_plant_02
+    Potted Plant 1: https://polyhaven.com/a/potted_plant_01
 
-    Potted Plant: https://polyhaven.com/a/potted_plant_02
+    Potted Plant 2: https://polyhaven.com/a/potted_plant_02
+
+    Jacaranda Tree: https://polyhaven.com/a/jacaranda_tree
     */
 }
